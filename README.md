@@ -1,3 +1,3 @@
 # jagenet
 JAGENET
-Bu benim ilk depom
+Bu benim ilk depom değilmi
