@@ -67,5 +67,5 @@ if($_POST['yukle']) {
 ?>
 </body>
 </html>
-
+l
 nasıl gidiyor?
