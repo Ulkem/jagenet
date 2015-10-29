@@ -1,7 +1,4 @@
 <?php    
-
-
 echo "Merhaba Dünya";
-echo "Yalan Dünya";
-
+echo "Yalan Dünyalı";
 ?>
