@@ -1,4 +1,2 @@
 # jagenet :)
 JAGENET
-
-hu huuuu
