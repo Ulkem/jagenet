@@ -1,1 +1,6 @@
-selam millet
+<?php    
+
+
+echo "Merhaba Dünya";
+
+?>
