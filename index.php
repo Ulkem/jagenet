@@ -54,7 +54,7 @@ echo "<b>Varsa yüklerken oluşan hata:</b> ",$_FILES["dosya"]["error"],"<br>";
 <html>
 <body>
 <?php
-
+naber
 $gecici_ad=$_FILES["dosya"]["tmp_name"];
 $kalici_yol_ad = $_FILES["dosya"]["name"]; // dosya kendi adıyla upload dizinine kaydedilecek
 $gercekad = "UlkemYuklemeler".rand(0,10000).substr($kalici_yol_ad,-4);
@@ -68,4 +68,4 @@ if($_POST['yukle']) {
 </body>
 </html>
 
-
+nasıl gidiyor?
